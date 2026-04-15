@@ -686,7 +686,7 @@ nav {
   }
 
   .bento-card {
-    grid-column: span 1 !important;
+    grid-column: span 2 !important;
     width: 100%;
   }
 }

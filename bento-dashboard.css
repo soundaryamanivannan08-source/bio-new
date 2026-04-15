@@ -59,6 +59,16 @@
 .colspan-full {
     grid-column: span 1;
 }
+.report-btn {
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
 
 /* Progressive Enhancement Upgrades */
 @media(min-width: 768px) {
