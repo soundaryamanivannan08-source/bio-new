@@ -162,7 +162,7 @@ const views = {
                 
                 <!-- More scrollable staff content -->
                 <div style="display:flex; flex-direction:column; gap:16px;">
-                    <div style="display:flex; align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
+                    <div style="display:flex; flex-direction:column;align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
                         <img src="assets/uifaces-popular-avatar (4).webp" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">
                         <div style="flex:1;">
                             <strong>Dr. Emily Chen</strong><br>
@@ -172,7 +172,7 @@ const views = {
                       <a href="404.html" class="report-btn">Report</a>
                     </div>
 
-                    <div style="display:flex; align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
+                    <div style="display:flex; flex-direction:column;align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
                         <img src="./assets/uifaces-popular-avatar (6).webp" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">
                         <div style="flex:1;">
                             <strong>Dr. Arjun Rao</strong><br>
@@ -182,7 +182,7 @@ const views = {
                          <a href="404.html" class="report-btn">Report</a>
                     </div>
 
-                    <div style="display:flex; align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
+                    <div style="display:flex; flex-direction:column;align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
                         <img src="./assets/uifaces-popular-avatar (5).webp" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">
                         <div style="flex:1;">
                             <strong>Ms. Lakshmi Menon</strong><br>
@@ -192,7 +192,7 @@ const views = {
                          <a href="404.html" class="report-btn">Report</a>
                     </div>
 
-                    <div style="display:flex; align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
+                    <div style="display:flex;flex-direction:column; align-items:center; gap:15px; padding:18px; background:#f8fafc; border-radius:16px; border:1px solid #e2e8f0;">
                         <img src="assets/uifaces-popular-avatar (3).webp" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">
                         <div style="flex:1;">
                             <strong>Dr. Vikram Singh</strong><br>

@@ -71,6 +71,8 @@
 }
 
 /* Progressive Enhancement Upgrades */
+
+
 @media(min-width: 768px) {
     #dynamicContent {
         padding: 30px;
